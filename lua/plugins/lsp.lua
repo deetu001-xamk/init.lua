@@ -29,7 +29,6 @@ return {
                 "lua_ls",
                 "ts_ls",
                 "tailwindcss",
-                "html-lsp"
             },
             handlers = {
                 function(server_name) -- default handler (optional)
