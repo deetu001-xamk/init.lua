@@ -1,4 +1,4 @@
-vim.cmd([[colorscheme gruvbox]])
+vim.cmd([[colorscheme gruvbox-material]])
 
 vim.opt.guicursor = ""
 
@@ -25,3 +25,6 @@ vim.opt.termguicolors = true
 
 vim.opt.scrolloff = 8
 vim.opt.signcolumn = "yes"
+
+
+vim.opt.colorcolumn = "90"
