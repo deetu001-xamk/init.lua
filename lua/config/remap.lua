@@ -9,6 +9,7 @@ vim.keymap.set("n", "<leader>pv", vim.cmd.Ex)
 
 
 -- Harpoon
+
 local harpoon = require("harpoon")
 
 harpoon:setup()
